@@ -1,0 +1,34 @@
+.site-title{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.site-form{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.site-input{
+  margin-right: 15px;
+  width: 250px;
+  padding: 15px;
+  font-size: medium;
+  box-shadow: 0px 0px 7px 3px green;
+  border-radius: 30px;
+}
+.site-button{
+  background-color: rgb(74, 240, 74);
+  width: 80px;
+  font-size: medium;
+  border-radius: 20px;
+  border: 2px black;
+}
+.site-button:hover{
+  background-color: green;
+}
+.site-span{
+  display: block;
+  color: red;
+  text-align: center;
+  margin: 0 auto;
+  font-size: xx-large;
+}
